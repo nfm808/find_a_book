@@ -1,0 +1,8 @@
+.App__filterSection {
+  height: 30px;
+  width: 100%;
+  background: lightgrey;
+  padding-top: 10px;
+  display: flex;
+  justify-content: center;
+}
